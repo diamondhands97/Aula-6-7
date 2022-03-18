@@ -14,3 +14,42 @@ for (int l = 1; l <= larg; l++)
 for (int c = 1; c <= comp; c++)
     Console.Write(Caract);
 Console.WriteLine();
+
+
+
+int altura, largura = 0;
+
+do
+{
+    Console.Write("Altura do triangulo: ");
+    altura = Convert.ToInt32(Console.ReadLine());
+
+
+
+    Console.Write("Largura do triangulo: ");
+    largura = Convert.ToInt32(Console.ReadLine());
+} while (altura != largura);
+
+for (int i = 0; i <= largura; i++)
+{
+    Console.Write("___");
+}
+
+Console.WriteLine();
+
+for (int x = 0; x <= altura; x++)
+{
+    Console.Write("|");
+    for (int i = 0; i <= largura; i++)
+    {
+        Console.Write(" ");
+    }
+    Console.WriteLine("|");
+}
+
+Console.Write("|");
+for (int i = 0; i <= largura; i++)
+{
+    Console.Write("___");
+}
+Console.Write("|");

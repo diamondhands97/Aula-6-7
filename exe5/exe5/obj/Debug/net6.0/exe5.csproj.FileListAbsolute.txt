@@ -1,0 +1,15 @@
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\bin\Debug\net6.0\exe5.exe
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\bin\Debug\net6.0\exe5.deps.json
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\bin\Debug\net6.0\exe5.runtimeconfig.json
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\bin\Debug\net6.0\exe5.dll
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\bin\Debug\net6.0\exe5.pdb
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.csproj.AssemblyReference.cache
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.AssemblyInfoInputs.cache
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.AssemblyInfo.cs
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.csproj.CoreCompileInputs.cache
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.dll
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\refint\exe5.dll
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.pdb
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\exe5.genruntimeconfig.cache
+C:\Users\tiagbastos\Desktop\CTESP\1 ano\2 semestre\Programação Orientada a Objetos\Aula-6-7\Aula-6-7\exe5\exe5\obj\Debug\net6.0\ref\exe5.dll
